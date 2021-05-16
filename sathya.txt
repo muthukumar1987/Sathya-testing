@@ -1,0 +1,9 @@
+1.testing the sathya website
+
+2.testing intiated
+
+3.testing scripts enhanced
+
+4.testing framework enhanced
+
+5.Executing the testcases
