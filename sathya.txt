@@ -7,3 +7,5 @@
 4.testing framework enhanced
 
 5.Executing the testcases
+
+6.Executing xml file
