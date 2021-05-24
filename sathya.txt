@@ -13,3 +13,5 @@
 7.adding navigate to the homeapplicant page
 
 8.testing
+
+9. Generate extend report
